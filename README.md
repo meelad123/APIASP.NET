@@ -1,5 +1,5 @@
 # APIASP.NET
-An API that was published to AWS. 
+An API that was published to AWS. Code first approach in entity framework was used here too. 
 Example requests:
   -Login/logout (token based authentication)
   -Register
